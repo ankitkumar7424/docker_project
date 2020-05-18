@@ -3,9 +3,9 @@
 First of all i install the docker over the RHEL-8 & i run this operating system on virtual box.
 To install the docker firstly we have to configure yum in RHEL-8 & then the create repo for the docker inside /etc/yum.repos.d/ & after this i install the docker by the help of command :
 
-'''
+'
 yum install docker-ce --nobest 
-'''
+' 
 
 After that i start the docker to use it by the command:
 
